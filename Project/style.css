@@ -1,0 +1,143 @@
+body{
+    background-color: black;
+    color: white;
+}
+#search{
+    width: 500px;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+    background: darkgray;
+    margin-left: 2px;
+    margin-top: 1px;
+}
+
+#Premium{
+    float: right;
+    margin-right: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 4px;
+}
+img{
+    width: 50px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 4px;
+    margin-left: 9px;
+}
+#a{
+    border-radius: 12px;
+    height: 30px;
+    background: grey;
+}
+#first{
+   margin-left: 30px;
+   float: left;
+   border: 2px solid rgb(32, 31, 31);
+   border-radius: 20px;
+   background-color: rgb(32, 31, 31);
+   padding: 20px;
+   padding-bottom: 60px;
+
+}
+#div1{
+    border-radius: 20px;
+    background: wheat;
+}
+#b{
+    margin-left: 100px;
+    border-radius: 30px;
+    background-color: wheat;
+}
+h3{
+    margin-top: 2px;
+}
+#song{
+    width: 100px;
+    border-radius: 7px;
+    background-color: rgb(32, 31, 31);
+    color: white;
+}
+#second{
+    margin-right: 400px;
+    border: 2px solid #ff4444;
+    margin-left: 312px;
+    border-radius: 20px;
+    background-color: #ff4444;
+    padding-bottom: 20px;
+}
+#divunder1{
+    background-color: wheat;
+    color: black;
+}
+#img2{
+    height: 50px;
+    width: 50px;
+}
+#pause{
+    border-radius: 90px;
+    margin-left: 10px;
+}
+#divunder2{
+    margin-left: 20px;
+}
+#list{
+    background-color:#ff4444;
+    color: white;
+    border: none;
+}
+#list:hover{
+    background: gray;
+    border: 3px solid black;
+}
+#third{
+    border: 2px solid rgb(32, 31, 31);
+    margin-top: -450px;
+    margin-right: 7px;
+    margin-left: 945px;
+    background-color: rgb(32, 31, 31);
+    border-radius: 20px;
+    padding-bottom: 5px;
+
+}
+#img3{
+    width: 80%;
+    height: 100%;
+    margin-left: 30px;
+}
+#main{
+    margin-top: -50px;
+}
+#img4{
+    height: 40px;
+    width: 80px;
+    float: left;
+    margin-top: 10px;
+}   
+#fourth{
+    background-color: black;
+    margin-top: 35px;
+}
+audio{
+    width: 600px;
+}
+#search:hover{
+    border: 3px solid white;
+}
+#song:hover{
+    border: 3px solid white;
+}
+#img3:hover{
+    border: 4px solid wheat;
+}
+#divunder3{
+    margin-top: 10px;
+    margin-right: 1100px;
+    margin-bottom: -20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
